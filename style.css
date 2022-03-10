@@ -1,0 +1,14 @@
+h1 {
+    color:aquamarine;
+    font:helvetica;
+}
+.recipe-list {
+    display:flex;
+    border:black 1px solid;
+    padding:5px;
+}
+
+.recipe {
+    border: aquamarine solid 2px;
+    
+}
